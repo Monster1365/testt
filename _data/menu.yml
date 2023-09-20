@@ -1,11 +1,11 @@
-- title: Home
+- title: 소개
   link: /
 
-- title: About
+- title: 알아보기
   link: /about/
 
-- title: Services
+- title: 기부하기
   link: "/services/"
 
-- title: Contact
+- title: 문의하기
   link: "/contact/"
